@@ -1,4 +1,4 @@
-# How to run the code
+# DETAILS ON HOW TO  THIS CODE
 
 
 # Clone the repo
